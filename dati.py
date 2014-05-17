@@ -1,8 +1,11 @@
-
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+# Autore: Cristian Consonni <kikkocristian@gmail.com>
+#
+# The code is released with an MIT license
+# please see the LICENSE file for details.
 
-import sys
-import csv
 import requests
 import pywikibot
 
